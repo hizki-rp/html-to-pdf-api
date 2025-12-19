@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-qcyvq=*a2^efsxbtua(6#hsfa4)5(mfwhxj3#mr9v90082!k9x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1","https://html-to-pdf-api-o91l.onrender.com",]
 
 
 # Application definition
